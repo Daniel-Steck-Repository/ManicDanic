@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManicDanic
+- 👋 Hi, I’m @Daniel Steck
 - 👀 I’m interested in Data Analytics and Data Science, given that I love math and programing and want to keep improving.
 - 🌱 I’m currently learning SQL, Python, and R. Though I am relearning SQL and learning python and R to keep my skills up.
 
